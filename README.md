@@ -1,2 +1,8 @@
 # CDF
-Catalog data practise 
+In the DataBricks there is a Catalog section
+
+Objectives - Schema       ->
+
+Databases -        ->  Tables  ^  Volumes  ^ Functions  ^  View 
+
+
